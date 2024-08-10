@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Khaled 👋
 
-<!--
-**muhammedkhaled95/muhammedkhaled95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer specializing in developing CAD applications similar to AutoCAD, and really passionate about AI.
 
-Here are some ideas to get you started:
+## Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: Python, CM, C#
+- **Technologies**: FastAPI, SQLAlchemy, LangChain, FAISS, HuggingFace
+- **Tools**: GitHub, VS Code, Emacs
+
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/muhammed-khaled-1110/)
+- [Email](muhammedkhaled1110@gmail.com)
+
+## Interests
+
+- Generative AI
+- Backend Development
+- Video Games
