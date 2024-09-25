@@ -1,11 +1,8 @@
 <p align="center">
-<img src="https://media.licdn.com/dms/image/D4D03AQFfEHSroIRh_Q/profile-displayphoto-shrink_800_800/0/1720207003740?e=1728518400&v=beta&t=R-p6sgZOQjdy3UOYAEOy8UcJoWbmTyledNw4xS5SqaQ" alt="Me" width="200" height="200"/>
-</p>
-<p align="center">
 Hi there, I'm Mohamed Khaled 👋
 </p>
 <p align="center">
-I'm a software engineer specializing in developing CAD applications similar to AutoCAD, and really passionate about AI.
+I'm a software engineer specializing in developing CAD-like design applications using OOP based language similar to Java called CM, and really passionate about back-end engineering and AI.
 </p>
 
 ## Languages and Tools:
